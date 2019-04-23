@@ -1,21 +1,22 @@
 #include <iostream>
 
-#define llllli int
-#define llllil main
-#define llllii (
-#define lllill )
-#define lllili std
-#define llliii ::
-#define llilll cout
-#define llilli <<
-#define llilil "lilli"
-#define llilii ;
-#define lliill return
-#define lliili 0
-#define lliiil {
-#define lliiii }
+#define lllllI int
+#define llllIl main
+#define llllII (
+#define lllIll )
+#define lllIlI std
+#define lllIII ::
+#define llIlll cout
+#define llIllI <<
+#define llIlIl "lIllI"
+#define llIlII ;
+#define llIIll return
+#define llIIlI 0
+#define llIIIl {
+#define llIIII }
+#define lIllll "\n"
 
-llllli llllil llllii lllill lliiil
-  lllili llliii llilll llilli llilil llilii
-  lliill lliili llilii
-lliiii
+lllllI llllIl llllII lllIll llIIIl
+  lllIlI lllIII llIlll llIllI llIlIl llIllI lIllll llIlII
+  llIIll llIIlI llIlII
+llIIII
